@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.centered-text h1 {
+    font-size: 4em;
+    margin: 0;
+}
+
+.centered-text p {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
