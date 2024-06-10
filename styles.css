@@ -21,3 +21,15 @@ body {
     font-size: 1.5em;
     margin: 10px 0;
 }
+
+#copy-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#copy-button:hover {
+    background-color: #0056b3;
+}
